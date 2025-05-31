@@ -14,5 +14,4 @@ A static clone of the Spotify homepage/interface built using pure HTML and CSS. 
 - **HTML5** – Page structure and content
 - **CSS3** – Styling and layout (Flexbox, Grid, custom fonts, etc.)
 
-## 📂 Project Structure
 
